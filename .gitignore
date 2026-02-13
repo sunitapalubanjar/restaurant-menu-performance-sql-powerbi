@@ -1,0 +1,9 @@
+# Power BI
+*.pbix
+
+# Environment files
+.env
+
+# Data files
+*.csv
+.data/
